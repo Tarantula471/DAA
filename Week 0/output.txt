@@ -1,0 +1,6 @@
+YES
+Total comparison: 3
+No
+Total comparison: 10
+YES
+Total comparison: 8
